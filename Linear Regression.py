@@ -4,7 +4,7 @@ Linear Regression Classifier on MNIST data
 @author: Milad
 """
 
-Data_Path = "F:\McGill\Courses\Machine Learning\Projects\Third Project\Data\input"
+Data_Path = "" # the path to data
 
 import os
 import math
